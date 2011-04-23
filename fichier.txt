@@ -1,0 +1,100 @@
+
+LOG mv7.activeplus.net
+
+local working directory is '/home/backup/mysql'
+/home/backup/mysql/mzcorporatetest.06-04-2011.gz                      
+/home/backup/mysql/mhzold.06-04-2011.gz                               
+/home/backup/mysql/vinca.06-04-2011.gz                                s
+/home/backup/mysql/mhzshoppro.06-04-2011.gz                           
+/home/backup/mysql/solartest.06-04-2011.gz                            
+/home/backup/mysql/elecdepot.06-04-2011.gz                            
+/home/backup/mysql/mzcorporate.06-04-2011.gz                          
+/home/backup/mysql/solar.06-04-2011.gz                                
+/home/backup/mysql/mhzshoppar.06-04-2011.gz                           
+/home/backup/mysql/mysql.06-04-2011.gz                                
+/home/backup/mysql/blogmhz.06-04-2011.gz                              
+/home/backup/mysql/oldshop.06-04-2011.gz                              
+/home/backup/mysql/information_schema.06-04-2011.gz                   s
+/home/backup/mysql/mhzpro.06-04-2011.gz                               
+/home/backup/mysql/mhzshop.06-04-2011.gz                              
+updated bookmark ftpback-rbx3-141] 356B/356B ETA 0:01 356B/s
+yafc 1.1.1 Copyright (C) 1998-2001 Martin Hedenfalk <mhe@home.se>.
+This program comes with ABSOLUTELY NO WARRANTY; for details type 'warranty'.
+This is free software; type 'copyright' for details.
+
+local working directory is '/home/backup/mysql'
+/home/backup/mysql/mzcorporate.07-04-2011.gz                          
+/home/backup/mysql/oldshop.07-04-2011.gz                              
+/home/backup/mysql/mhzpro.07-04-2011.gz                               s
+/home/backup/mysql/blogmhz.07-04-2011.gz                              
+/home/backup/mysql/mhzshoppar.07-04-2011.gz                           
+/home/backup/mysql/mhzshop.07-04-2011.gz                              
+/home/backup/mysql/mhzshoppro.07-04-2011.gz                           
+/home/backup/mysql/mzcorporatetest.07-04-2011.gz                      
+/home/backup/mysql/information_schema.07-04-2011.gz                   
+/home/backup/mysql/elecdepot.07-04-2011.gz                            
+/home/backup/mysql/mhzold.07-04-2011.gz                               
+/home/backup/mysql/solartest.07-04-2011.gz                            s
+/home/backup/mysql/solar.07-04-2011.gz                                
+/home/backup/mysql/mysql.07-04-2011.gz                                
+updated bookmark ftpback-rbx3-141] 4.0KiB/94.8KiB ETA 0:22 4.0KiB/s
+yafc 1.1.1 Copyright (C) 1998-2001 Martin Hedenfalk <mhe@home.se>.
+This program comes with ABSOLUTELY NO WARRANTY; for details type 'warranty'.
+This is free software; type 'copyright' for details.
+
+srv2.activeplus.net
+
+ftp> cd 14-04-2011
+250 OK. Current directory is /BACKUP/mysql/14-04-2011
+ftp> ls
+200 PORT command successful
+150 Connecting to port 38965
+drwxr-xr-x    2 100      100            17 Apr 14 05:34 .
+drwxr-xr-x    4 100      100             4 Apr 15 20:37 ..
+-rw-r--r--    1 100      100        112374 Apr 14 05:34 blogmhz.14-04-2011.gz
+-rw-r--r--    1 100      100       1039702 Apr 14 05:34 elecdepot.14-04-2011.gz
+-rw-r--r--    1 100      100           431 Apr 14 05:34 information_schema.14-04-2011.gz
+-rw-r--r--    1 100      100      23616374 Apr 14 05:34 mhzold.14-04-2011.gz
+-rw-r--r--    1 100      100       1767578 Apr 14 05:34 mhzpro.14-04-2011.gz
+-rw-r--r--    1 100      100       4887745 Apr 14 05:34 mhzshop.14-04-2011.gz
+-rw-r--r--    1 100      100       1587405 Apr 14 05:34 mhzshoppar.14-04-2011.gz
+-rw-r--r--    1 100      100       1713698 Apr 14 05:34 mhzshoppro.14-04-2011.gz
+-rw-r--r--    1 100      100         95979 Apr 14 05:34 mysql.14-04-2011.gz
+-rw-r--r--    1 100      100        997420 Apr 14 05:34 mzcorporate.14-04-2011.gz
+-rw-r--r--    1 100      100          7730 Apr 14 05:34 mzcorporatetest.14-04-2011.gz
+-rw-r--r--    1 100      100      24434526 Apr 14 05:34 oldshop.14-04-2011.gz
+-rw-r--r--    1 100      100       1493159 Apr 14 05:34 solar.14-04-2011.gz
+-rw-r--r--    1 100      100        419024 Apr 14 05:34 solartest.14-04-2011.gz
+-rw-r--r--    1 100      100           333 Apr 14 05:34 vinca.14-04-2011.gz
+
+ftp> cd 15-04-2011
+250 OK. Current directory is /BACKUP/mysql/15-04-2011
+ftp> ls
+200 PORT command successful
+150 Connecting to port 35110
+drwxr-xr-x    2 100      100            17 Apr 15 05:30 .
+drwxr-xr-x    4 100      100             4 Apr 15 20:37 ..
+-rw-r--r--    1 100      100        112376 Apr 15 05:30 blogmhz.15-04-2011.gz
+-rw-r--r--    1 100      100       1040413 Apr 15 05:30 elecdepot.15-04-2011.gz
+-rw-r--r--    1 100      100           431 Apr 15 05:30 information_schema.15-04-2011.gz
+-rw-r--r--    1 100      100      23616375 Apr 15 05:30 mhzold.15-04-2011.gz
+-rw-r--r--    1 100      100       1767579 Apr 15 05:30 mhzpro.15-04-2011.gz
+-rw-r--r--    1 100      100       4887745 Apr 15 05:30 mhzshop.15-04-2011.gz
+-rw-r--r--    1 100      100       1587406 Apr 15 05:30 mhzshoppar.15-04-2011.gz
+-rw-r--r--    1 100      100       1713699 Apr 15 05:30 mhzshoppro.15-04-2011.gz
+-rw-r--r--    1 100      100         95979 Apr 15 05:30 mysql.15-04-2011.gz
+-rw-r--r--    1 100      100       1001957 Apr 15 05:30 mzcorporate.15-04-2011.gz
+-rw-r--r--    1 100      100          7730 Apr 15 05:30 mzcorporatetest.15-04-2011.gz
+-rw-r--r--    1 100      100      24434526 Apr 15 05:30 oldshop.15-04-2011.gz
+-rw-r--r--    1 100      100       1503143 Apr 15 05:30 solar.15-04-2011.gz
+-rw-r--r--    1 100      100        419025 Apr 15 05:30 solartest.15-04-2011.gz
+-rw-r--r--    1 100      100           333 Apr 15 05:30 vinca.15-04-2011.gz
+226-Options: -a -l 
+226 17 matches total
+
+
+<<<<<<< HEAD:fichier.txt
+modif de nouveau fichier
+//nouveau commentaire dans fichier
+=======
+>>>>>>> parent of fec65e0... modification de nouveau fichier:nouveau fichier
