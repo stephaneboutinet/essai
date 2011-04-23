@@ -98,3 +98,4 @@ modif de nouveau fichier
 //nouveau commentaire dans fichier
 =======
 >>>>>>> parent of fec65e0... modification de nouveau fichier:nouveau fichier
+modif
